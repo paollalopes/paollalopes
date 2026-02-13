@@ -1,16 +1,70 @@
-## Hi there 👋
+# Olá, eu sou a Paola!
 
-<!--
-**paollalopes/paollalopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Analytics Engineer | Data Quality | QA → Dados  
+**SQL • Python • dbt • Power BI • Data Tests**
 
-Here are some ideas to get you started:
+Sou profissional de tecnologia com **+8 anos de experiência**, em **transição estratégica para Dados**, com foco em **Analytics Engineering e Data Quality**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atuo garantindo que **dados, métricas e modelos analíticos sejam confiáveis, consistentes e prontos para tomada de decisão**, aplicando princípios sólidos de qualidade, validação e testes ao ciclo de vida dos dados.
+
+*Transformar dados em decisões confiáveis é o que me move.*
+
+---
+
+## 🚀 Sobre minha transição
+Minha trajetória em **QA** construiu uma base forte em:
+- pensamento crítico  
+- validação de regras de negócio  
+- identificação de riscos  
+- automação e testes  
+
+Hoje aplico essa experiência diretamente em pipelines de dados, camadas analíticas, dashboards e validação de métricas, atuando cada vez mais próxima do papel de **Analytics Engineer**.
+
+---
+
+## 🧠 Meu diferencial em Dados
+QA não é meu passado — é meu **framework mental** em Dados.
+
+- **Investigação de dados**: inconsistências, anomalias e gaps  
+- **Data Quality**: regras de negócio, validações e testes  
+- **Testes em dados**: SQL, dbt tests, Great Expectations  
+- **Pensamento analítico**: modelos claros, métricas confiáveis  
+- **Entrega sustentável**: documentação e alinhamento com negócio  
+
+**Resultado:** insights confiáveis, auditáveis e escaláveis.
+
+---
+
+## 🛠️ Stack em andamento (Analytics Engineer)
+
+**Linguagens:** SQL, Python, DAX  
+**Analytics & BI:** Power BI, Tableau 
+**Data Quality:** dbt tests, Great Expectations, Validações em SQL  
+**Cloud:** AWS, Azure  
+**IA & Dados:** Prompt Engineering, Validação de respostas de LLMs  
+**ETL & Data Processing:** Apache Spark (PySpark), Construção de pipelines ETL, Transformação e modelagem de dados, Processamento de grandes volumes de dados, Otimização de queries e performance
+
+---
+
+## 🎓 Certificações
+- CTFL ✓  
+- dbt Fundamentals *(em andamento)*  
+- Databricks *(planejado)*  
+- AWS Cloud Practitioner *(planejado)*  
+
+---
+
+## 🌱 Jornada atual
+- Transição planejada para **Analytics Engineering**  
+- Projetos práticos e estudo contínuo  
+- Foco em **Data Quality, métricas confiáveis e camada analítica**  
+- Evolução técnica estruturada  
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/paolalopes/  
+- GitHub: https://github.com/paollalopes  
+- Email: palopes06@hotmail.com  
+
+Fique à vontade para explorar meus projetos e acompanhar minha evolução 🚀
