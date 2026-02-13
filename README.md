@@ -11,7 +11,7 @@ Atuo garantindo que **dados, métricas e modelos analíticos sejam confiáveis, 
 
 ---
 
-## 🚀 Sobre minha transição
+## Sobre minha transição
 Minha trajetória em **QA** construiu uma base forte em:
 - pensamento crítico  
 - validação de regras de negócio  
@@ -22,7 +22,7 @@ Hoje aplico essa experiência diretamente em pipelines de dados, camadas analít
 
 ---
 
-## 🧠 Meu diferencial em Dados
+## Meu diferencial em Dados
 QA não é meu passado — é meu **framework mental** em Dados.
 
 - **Investigação de dados**: inconsistências, anomalias e gaps  
@@ -35,7 +35,7 @@ QA não é meu passado — é meu **framework mental** em Dados.
 
 ---
 
-## 🛠️ Stack em andamento (Analytics Engineer)
+## Stack em andamento (Analytics Engineer)
 
 **Linguagens:** SQL, Python, DAX  
 **Analytics & BI:** Power BI, Tableau 
@@ -46,7 +46,7 @@ QA não é meu passado — é meu **framework mental** em Dados.
 
 ---
 
-## 🎓 Certificações
+## Certificações
 - CTFL ✓  
 - dbt Fundamentals *(em andamento)*  
 - Databricks *(planejado)*  
@@ -54,7 +54,7 @@ QA não é meu passado — é meu **framework mental** em Dados.
 
 ---
 
-## 🌱 Jornada atual
+## Jornada atual
 - Transição planejada para **Analytics Engineering**  
 - Projetos práticos e estudo contínuo  
 - Foco em **Data Quality, métricas confiáveis e camada analítica**  
@@ -62,7 +62,7 @@ QA não é meu passado — é meu **framework mental** em Dados.
 
 ---
 
-## 📫 Contato
+## Contato
 - LinkedIn: https://www.linkedin.com/in/paolalopes/  
 - GitHub: https://github.com/paollalopes  
 - Email: palopes06@hotmail.com  
