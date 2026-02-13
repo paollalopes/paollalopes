@@ -37,11 +37,11 @@ QA não é meu passado — é meu **framework mental** em Dados.
 
 ## Stack em andamento (Analytics Engineer)
 
-**Linguagens:** SQL, Python, DAX  
-**Analytics & BI:** Power BI, Tableau 
-**Data Quality:** dbt tests, Great Expectations, Validações em SQL  
-**Cloud:** AWS, Azure  
-**IA & Dados:** Prompt Engineering, Validação de respostas de LLMs  
+**Linguagens:** SQL, Python, DAX    
+**Analytics & BI:** Power BI, Tableau   
+**Data Quality:** dbt tests, Great Expectations, Validações em SQL    
+**Cloud:** AWS, Azure    
+**IA & Dados:** Prompt Engineering, Validação de respostas de LLMs    
 **ETL & Data Processing:** Apache Spark (PySpark), Construção de pipelines ETL, Transformação e modelagem de dados, Processamento de grandes volumes de dados, Otimização de queries e performance
 
 ---
