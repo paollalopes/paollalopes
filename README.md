@@ -1,7 +1,7 @@
 # Olá, eu sou a Paola!
 
 ### Analytics Engineer | Data Quality | QA → Dados  
-**SQL • Python • dbt • Power BI • Data Tests**
+**SQL • Python • Power BI • Data Tests**
 
 Sou profissional de tecnologia com **+8 anos de experiência**, em **transição estratégica para Dados**, com foco em **Analytics Engineering e Data Quality**.
 
@@ -38,7 +38,7 @@ QA não é meu passado — é meu **framework mental** em Dados.
 ## Stack em andamento (Analytics Engineer)
 
 **Linguagens:** SQL, Python, DAX    
-**Analytics & BI:** Power BI, Tableau   
+**Analytics & BI:** Power BI   
 **Data Quality:** dbt tests, Great Expectations, Validações em SQL    
 **Cloud:** AWS, Azure    
 **IA & Dados:** Prompt Engineering, Validação de respostas de LLMs    
@@ -48,7 +48,7 @@ QA não é meu passado — é meu **framework mental** em Dados.
 
 ## Certificações
 - CTFL ✓  
-- dbt Fundamentals *(em andamento)*  
+- dbt Fundamentals *(planejado)*  
 - Databricks *(planejado)*  
 - AWS Cloud Practitioner *(planejado)*  
 
