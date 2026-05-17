@@ -9,25 +9,6 @@ Atuo na interseção entre **dados, qualidade e inteligência**, garantindo que 
 
 ---
 
-## Stack (em evolução contínua)
-
-**Linguagens:** SQL, Python  
-**Data & BI:** Power BI  
-**Data Quality:** validações em SQL, Great Expectations  
-**Machine Learning & IA:** fundamentos de ML, Prompt Engineering, avaliação de LLMs  
-**Processamento de Dados:** PySpark, manipulação e transformação de dados, otimização de queries  
-**Cloud:** AWS, Azure 
-
----
-
-## Jornada atual
-- Evoluindo para **Data & AI Scientist**  
-- Construindo projetos práticos com dados e IA  
-- Foco em **qualidade, confiabilidade e interpretabilidade**  
-- Desenvolvimento contínuo em **Machine Learning e aplicações reais de IA** 
-
----
-
 ## Contato
 - LinkedIn: https://www.linkedin.com/in/paolalopes/  
 - GitHub: https://github.com/paollalopes  
